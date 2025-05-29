@@ -1,5 +1,5 @@
 import React from 'react'
-import WatchList from '../pages/Watchlist'
+import WatchList from '../pages/WatchList'
 
 const Genrefilter = ({genrelist,setSelectedgenre}) => {
   return (

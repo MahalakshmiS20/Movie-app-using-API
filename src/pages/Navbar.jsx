@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import{Link} from "react-router-dom";
-import Watchlist from './Watchlist';
+import Watchlist from './WatchList';
 import { WatchListContext } from '../context/WatchlistContext';
 
 const Navbar = () => {
