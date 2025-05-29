@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react'
 import Genrefilter from '../components/Genrefilter'
-import { WatchListContext } from '../context/WatchlistContext'
+import { WatchListContext } from '../context/WatchListContext'
 import Moviecard from '../components/Moviecard'
 
 const WatchList = () => {
